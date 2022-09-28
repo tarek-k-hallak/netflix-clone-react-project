@@ -1,3 +1,6 @@
+View project:
+https://tarek-k-hallak.github.io/netflix-clone-react-project/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
